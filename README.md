@@ -1,1 +1,1 @@
-# Face_Detetction_using_Integral_Image
+# Eye_Detetction_using_Integral_Image
